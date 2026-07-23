@@ -115,4 +115,4 @@ npm run dev
 
 ## License
 
-MIT — do what you want with it.
+ shivam-Nit-Kurukshetra
